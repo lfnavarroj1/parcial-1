@@ -1,0 +1,22 @@
+.imagen{
+  height: 300px;
+  overflow: hidden;
+
+}
+.margen-contenedor{
+  margin: 2rem;
+}
+.sin-relleno{
+  padding: 0px;
+}
+img{
+  border: 2px black solid;
+}
+
+.titulo{
+  padding-bottom: 1rem;
+  border-bottom: 2px double gray;
+
+}
+
+
