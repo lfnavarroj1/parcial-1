@@ -1,0 +1,13 @@
+td{
+  text-shadow: rgb(150, 150, 150) 3px 3px 3px;
+}
+.bordes{
+  border: none;
+  border-top: 2px solid gray;
+}
+/* th,td{
+  border: none
+} */
+.sombra{
+  box-shadow: rgb(230,230,230) 0px 5px 1px -1px, inset;
+}

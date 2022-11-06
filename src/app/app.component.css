@@ -1,6 +1,23 @@
+.titulo{
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bolder;
+  text-shadow: rgb(150,150,150) 1px 1px 1px;
+  padding-bottom: 0rem;
+}
+
+.sombra-contenedor{
+  border-bottom: 2px solid rgb(180,180,180);
+}
+
+.sombra{
+  box-shadow: rgb(230,230,230) 0px 5px 0px -1px;
+}
+
 .imagen{
   height: 300px;
   overflow: hidden;
+  border: 2px black solid;
+  /* box-shadow: rbg(150,150,150) 10px 10px; */
 
 }
 .margen-contenedor{
@@ -9,14 +26,9 @@
 .sin-relleno{
   padding: 0px;
 }
-img{
-  border: 2px black solid;
-}
 
-.titulo{
-  padding-bottom: 1rem;
-  border-bottom: 2px double gray;
-
+.pie-pagina{
+  text-align: center;
 }
 
 
